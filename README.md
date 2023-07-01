@@ -1,3 +1,3 @@
 # Data-Visualization-Heat-Map
 ## preview
-![Preview](heatMap.npg)
+![Preview](HeatMap.png)
