@@ -1,11 +1,8 @@
-# Data-Visualization-Heat-Map
-## preview
-![Preview](HeatMap.png)
-
 # Global Temperature Heatmap
 
 This project utilizes D3.js to create a heatmap representing global temperature variances over time. It fetches temperature data from a JSON file and visualizes it on a canvas.
-
+## preview
+![Preview](HeatMap.png)
 ## Files
 
 - `index.html`: The main HTML file that displays the heatmap on a web page. It includes references to the CSS and JavaScript files.
