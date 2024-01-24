@@ -4,6 +4,7 @@ This project utilizes D3.js to create a heatmap representing global temperature 
 
 ## Preview
 ![Preview](HeatMap.png)
+
 ## Files
 
 - `index.html`: The main HTML file that displays the heatmap on a web page. It includes references to the CSS and JavaScript files.
